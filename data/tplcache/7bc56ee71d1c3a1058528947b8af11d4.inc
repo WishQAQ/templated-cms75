@@ -1,0 +1,2 @@
+<li>[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<a href='{@me['arcurl']}' class='preview'><img src='{@me['litpic']}'/></a>"); [/field:array] </br>
+            <a href="[field:arcurl/]" class="title">[field:title/]</a> </li>

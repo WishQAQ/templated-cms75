@@ -1,0 +1,1 @@
+<a href="[field:typelink/]"><img src="/templets/default/images/more.png" alt=""/></a>
